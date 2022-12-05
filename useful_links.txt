@@ -5,9 +5,12 @@ https://idele.fr/inosys-reseaux-elevage/?eID=cmis_download&oID=workspace%3A%2F%2
 https://www.reussir.fr/lait/insemination-par-leleveur-comment-bien-se-preparer
 https://www.web-agri.fr/couts-de-production/article/205944/de-30-a-50-euros-les-1000-l-de-frais-d-elevage-en-moyenne
 https://idele.fr/detail-dossier/bilan-des-inseminations-animales-bovines-2020
+______________________________________________________________________________________
+
+---->  Article sur les temperatures/conductivités du lait : https://www.tandfonline.com/doi/full/10.1081/JFP-200048143#:~:text=The%20natural%20composition%20of%20milk%20changes%20with%20the,to%20be%20from%20the%20salts%20of%20milk%20%28Table
 
 ______________________________________________________________________________________
 
-Capteur de conductivité : https://www.pixelelectric.com/sensors/load-pressure-flow-vibration/water-tds-ph-flow-level-sensor/arduino-tds-water-conductivity-quality-sensor/
+---->  Capteur de conductivité : https://www.pixelelectric.com/sensors/load-pressure-flow-vibration/water-tds-ph-flow-level-sensor/arduino-tds-water-conductivity-quality-sensor/
 
 
