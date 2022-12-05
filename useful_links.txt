@@ -5,3 +5,9 @@ https://idele.fr/inosys-reseaux-elevage/?eID=cmis_download&oID=workspace%3A%2F%2
 https://www.reussir.fr/lait/insemination-par-leleveur-comment-bien-se-preparer
 https://www.web-agri.fr/couts-de-production/article/205944/de-30-a-50-euros-les-1000-l-de-frais-d-elevage-en-moyenne
 https://idele.fr/detail-dossier/bilan-des-inseminations-animales-bovines-2020
+
+______________________________________________________________________________________
+
+Capteur de conductivité : https://www.pixelelectric.com/sensors/load-pressure-flow-vibration/water-tds-ph-flow-level-sensor/arduino-tds-water-conductivity-quality-sensor/
+
+
